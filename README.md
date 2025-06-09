@@ -19,9 +19,3 @@
 - 🎧 Mostly Tyler the Creator, but usually chill music! 
 - 📚 Watching youtube videos on cybersecurity and web dev!
 - 🧠 Grinding leetcode and reading philosophy topics!  
-
----
-
-## 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/julio-cuello-s/)  
