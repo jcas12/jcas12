@@ -16,6 +16,6 @@
 ## 🎯 Interests
 
 - 🎮 Playing Pokemon! 
-- 🎧 Mostly Tyler the Creator, but usually chill music! 
+- 🎧 Love listening to Tyler the Creator, but usually Beabadoobee is also nice! 
 - 📚 Watching youtube videos on cybersecurity and web dev!
 - 🧠 Grinding leetcode and reading philosophy topics!  
