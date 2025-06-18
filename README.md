@@ -8,7 +8,7 @@
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, C++, TypeScript, SQL, HTML, CSS  
+- **Languages:** Python, C++, TypeScript, SQL, HTML/CSS  
 - **Frameworks & Tools:** Next.js, React, Tailwind CSS, PyQT5, Supabase, Git  
 
 ---
