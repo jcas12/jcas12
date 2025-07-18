@@ -8,9 +8,10 @@ Julio = {
     },
 
     "experience": {
-        "curr": "Teacher @ Techno Inventors, Hato Rey",
-        "past1": "C++ Tutor @ Polytechnic University Puerto Rico",
-        "past2": "Information Technology Intern @ Stryker",
+        "curr": "none",
+        "past1": "Teacher @ Techno Inventors, Hato Rey",
+        "past2": "C++ Tutor @ Polytechnic University Puerto Rico",
+        "past3": "Information Technology Intern @ Stryker",
     },
 
     "technologies": {
