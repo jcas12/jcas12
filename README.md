@@ -20,8 +20,7 @@ Julio = {
     },
 
     "socials": {
-        "linkedin": "https://www.linkedin.com/in/julio-cuello-s/",
-        "email": "jarturocs0412@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/julio-cuello-s/"
     },
 
     "aboutMe": {
