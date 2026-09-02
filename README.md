@@ -8,7 +8,7 @@ Julio = {
     },
 
     "experience": {
-        "curr": "Founder @ Aretasys",
+        "curr": "Partner @ Minted",
         "past1": "Teacher @ Techno Inventors",
         "past2": "C++ Tutor @ Polytechnic University Puerto Rico",
         "past3": "Information Technology Intern @ Stryker",
